@@ -1,0 +1,23 @@
+* Gia Villanova
+* March 2019
+* Tables 
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body properties here */
+
+body {
+}
+
+table, td, th { border: 1px solid gray }
+
+table { border-collapse: collapse; }
+
+
+thead {background-color: lavender; }
+tfoot {background-color: lavenderblush}
